@@ -1,0 +1,1 @@
+export const DEFAULT_PRODUCTS_SIZE = 10;
